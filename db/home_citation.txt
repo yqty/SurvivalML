@@ -1,0 +1,2 @@
+SurvivalML is freely accessible to all users without any login requirements. If SurvivalML is utilized in your research, kindly cite our initial publication:
+Liu, Z., Liu, L., Weng, S. et al. 'BEST: a web application for comprehensive biomarker exploration on large-scale data in solid tumors.' Journal of Big Data 10, 165 (2023). https://doi.org/10.1186/s40537-023-00844-y.
