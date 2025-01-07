@@ -9,17 +9,17 @@
 [![RCMD-Check](https://img.shields.io/badge/Feedback-c77dff)](liuzaoqu@163.com)
 <!-- badges: end -->
 
-## :bar_chart: Overview
-## Efficient Discovery of Robust Prognostic Biomarkers and Signatures in Solid Tumors via SurvivalML
+### :bar_chart: Overview
+### Efficient Discovery of Robust Prognostic Biomarkers and Signatures in Solid Tumors via SurvivalML
 
-## :arrow_double_down: Preparation
+### :arrow_double_down: Preparation
 **You can download the data files used in SurvivalML:**
 https://www.synapse.org/#!Synapse:syn58922557
 <img src="man/1.png" width="80%" />
 
 **After you download, move the raw_data subfolder to the db fold of the SurvivalML project.**
 
-## :arrow_double_down: Environment configuration
+### :arrow_double_down: Environment configuration
 ```R
 ##----------------------------------------------------------------------
 ## This script is designed for loading R packages in the main shiny app
@@ -154,7 +154,7 @@ pacman::p_load("dcurves")
 pacman::p_load("snowfall")
 ```
 
-## :beginner: Running App
+### :beginner: Running App
 ```R
 
 # -----Packages-----
@@ -280,7 +280,7 @@ shiny::shinyApp(
 ```
 <img src="man/2.png" width="80%" />
 
-## :paperclip: Start the exploration
+### :paperclip: Start the exploration
 <img src="man/3.png" width="100%" />
 
 
