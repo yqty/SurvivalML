@@ -6,7 +6,7 @@
 https://www.synapse.org/#!Synapse:syn58922557
 <img src="man/1.png" width="80%" />
 
-**After you download, move the db folder to the SurvivalML project.**
+**After you download, move the raw_data subfolder to the db fold of the SurvivalML project.**
 
 ## :arrow_double_down: Environment configuration
 ```R
