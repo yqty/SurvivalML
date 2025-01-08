@@ -10,7 +10,7 @@
 <!-- badges: end -->
 
 ### :bar_chart: Overview
-### Efficient Discovery of Robust Prognostic Biomarkers and Signatures in Solid Tumors via SurvivalML
+### Efficient Discovery of Robust Prognostic Biomarkers and Signatures in Solid Tumors via Survival Machine Learning
 
 ### :arrow_double_down: Preparation
 **You can download the data files used in SurvivalML:**
