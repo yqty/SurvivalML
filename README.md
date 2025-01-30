@@ -11,14 +11,10 @@
 ## 📊 Overview
 **Efficient Discovery of Robust Prognostic Biomarkers and Signatures in Solid Tumors**  
 
-🚀 **SurvivalML** provides an advanced framework for survival analysis using **machine learning models**, integrating **high-throughput data analysis** for biomedical research.  
+🚀 **SurvivalML** provides an advanced framework for identifying prognostic biomarkers and signatures in solid tumors. 
 
 🔍 **Features:**
-- 📌 **Multi-modal survival prediction**
-- 🔬 **Biomarker identification for prognosis**
-- 🧬 **Integration with large-scale omics datasets**
-- 📈 **Dynamic interactive visualizations**
-- 🚀 **Optimized for Shiny applications**
+Recent advancements in multi-omics and big-data technologies have facilitated the discovery of numerous cancer prognostic biomarkers and gene signatures. However, their clinical application remains limited due to poor reproducibility and insufficient independent validation. Despite the availability of high-quality datasets, achieving reliable biomarker identification across multiple cohorts continues to be a significant challenge. To address these issues, we developed a comprehensive platform, SurvivalML, designed to support the discovery and validation of prognostic biomarkers and gene signatures using large-scale and harmonized data from 21 cancer types.
 
 ---
 
