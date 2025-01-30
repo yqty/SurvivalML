@@ -1,11 +1,11 @@
 # 🚀 Survival Machine Learning <img src="man/logo.jpg" alt="logo" align="right" height="200" width="180"/>
 
 <!-- badges: start -->
-[![Version](https://img.shields.io/badge/Version-1.0.0-yellow?style=for-the-badge)](https://github.com/Zaoqu-Liu/SurvivalML/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZaoqu-Liu%2FSurvivalML&count_bg=%2379C83D&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![License](https://img.shields.io/badge/License-GPL3-red?style=for-the-badge)](https://github.com/Zaoqu-Liu/SurvivalML?tab=GPL-3.0-1-ov-file)
-[![ShinyApp](https://img.shields.io/badge/Shiny-APP-f28482?style=for-the-badge)](https://github.com/Zaoqu-Liu/SurvivalML)
-[![Feedback](https://img.shields.io/badge/Feedback-c77dff?style=for-the-badge)](mailto:liuzaoqu@163.com)
+[![Version](https://img.shields.io/badge/Version-1.0.0-yellow)](https://github.com/Zaoqu-Liu/SurvivalML/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZaoqu-Liu%2FSurvivalML&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![License](https://img.shields.io/badge/License-GPL3-red)](https://github.com/Zaoqu-Liu/SurvivalML?tab=GPL-3.0-1-ov-file)
+[![ShinyApp](https://img.shields.io/badge/Shiny-APP-f28482)](https://github.com/Zaoqu-Liu/SurvivalML)
+[![RCMD-Check](https://img.shields.io/badge/Feedback-c77dff)](liuzaoqu@163.com)
 <!-- badges: end -->
 
 ## 📊 Overview
@@ -157,8 +157,6 @@ If you find **SurvivalML** useful, please cite the following publication:
   journal   = {Cancer Letters},
   year      = {2025},
   month     = {January},
-  volume    = {XYZ},  % 如果有卷号，可以加上
-  pages     = {XXX--XXX}, % 如果有页码，可以加上
   doi       = {10.1016/j.canlet.2025.217502},
   url       = {https://doi.org/10.1016/j.canlet.2025.217502}
 }
