@@ -1,3 +1,11 @@
+中文说明
+https://github.com/yqty/SurvivalML/blob/master/docs/%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95.md
+
+
+
+
+
+
 # 🚀 Survival Machine Learning <img src="man/logo.jpg" alt="logo" align="right" height="200" width="180"/>
 
 <!-- badges: start -->
